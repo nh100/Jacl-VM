@@ -1,0 +1,55 @@
+' prints "Hello World\n"
+LDA 72 'loads A register with 72
+LDO 0  'loads Out register with value in A
+FLO
+'  ^ flushes out register to console
+LDA 101
+LDO 0
+FLO
+'
+LDA 108
+LDO 0
+FLO
+'
+LDA 108
+LDO 0
+FLO
+'
+LDA 111
+LDO 0
+FLO
+'
+LDA 32
+LDO 0
+FLO
+'
+LDA 87
+LDO 0
+FLO
+'
+LDA 111
+LDO 0
+FLO
+'
+LDA 114
+LDO 0
+FLO
+'
+LDA 108
+LDO 0
+FLO
+'
+LDA 100
+LDO 0
+FLO
+'
+LDA 30
+LDO 0
+FLO
+'
+LDA 10
+LDO 0
+FLO
+
+
+
